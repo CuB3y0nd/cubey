@@ -69,4 +69,5 @@ Notice
 ---
  - *GUILD_ID* is your discord server's id.
  - *CLIENT_ID* is your discord application's id.
+ - WTF cubey is my wife!
 
