@@ -1,0 +1,17 @@
+{
+  "name": "cubey",
+  "version": "0.0.1",
+  "description": "A useful Discord-Bot for Hypixel SkyBlock!",
+  "main": "src/index.js",
+  "repository": "https://github.com/CuB3y0nd/cubey.git",
+  "author": "CuB3y0nd",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
